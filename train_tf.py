@@ -1,6 +1,7 @@
+% Recommended Anaconda distribution
 from __future__ import print_function
 
-import tensorflow as tf
+import tensorflow as tf % importing tensorflow library
 import os, argparse, pathlib
 
 from eval import eval
